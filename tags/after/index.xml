@@ -13,13 +13,13 @@
     <generator>After Dark 9.2.2 (Hugo 0.68.2)</generator>
     <language>en-US</language>
     <copyright>Copyright &amp;copy; Copyright Owner. Licensed under CC-BY-ND-4.0.</copyright>
-    <lastBuildDate>Wed, 25 Mar 2020 00:55:58 UT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2020 00:57:05 UT</lastBuildDate>
     <atom:link href="https://colin.onrender.com/tags/after/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://colin.onrender.com/post/test/</link>
-      <pubDate>Wed, 25 Mar 2020 00:48:26 UT</pubDate>
-      <guid>https://colin.onrender.com/post/test/</guid>
+      <title>Welcome</title>
+      <link>https://colin.onrender.com/post/welcome/</link>
+      <pubDate>Tue, 24 Mar 2020 02:07:00 UT</pubDate>
+      <guid>https://colin.onrender.com/post/welcome/</guid>
       <description>Before continuing please create a post archetype. Archetypes are located within markdown files in the archetypes directory of your site:
 flying-toasters ├── archetypes │ ├── default.md │ └── post.md ├── content If post.md does not exist yet, copy it from the After Dark default:
 $ cd flying-toasters $ cp themes/after-dark/archetypes/post.md archetypes/ Make some changes to post.md then use hugo new to draft a new post:
