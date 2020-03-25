@@ -3,15 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://colin.onrender.com/tags/after/</loc>
+    <lastmod>2020-03-24T20:48:26-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://colin.onrender.com/</loc>
+    <lastmod>2020-03-24T20:48:26-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://colin.onrender.com/categories/</loc>
+    <lastmod>2020-03-24T20:48:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://colin.onrender.com/tags/dark/</loc>
+    <lastmod>2020-03-24T20:48:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://colin.onrender.com/categories/hacking/</loc>
+    <lastmod>2020-03-24T20:48:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://colin.onrender.com/post/</loc>
+    <lastmod>2020-03-24T20:48:26-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://colin.onrender.com/tags/</loc>
+    <lastmod>2020-03-24T20:48:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://colin.onrender.com/post/test/</loc>
+    <lastmod>2020-03-24T20:48:26-04:00</lastmod>
   </url>
   
 </urlset>
